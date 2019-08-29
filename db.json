@@ -1,0 +1,8 @@
+{
+ "eligibilityCheck": [
+ {
+"IMEI": 123456789999999,
+"Application": "Meg"
+}
+ ]
+} 
