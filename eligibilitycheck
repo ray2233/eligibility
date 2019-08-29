@@ -1,0 +1,24 @@
+{
+ "eligibilityCheck": [
+ {
+"IMEI": 123456789999999,
+"Application": "Meg"
+}
+ ]
+} 
+
+
+
+
+
+{
+  "eligibleResponse": [
+ {
+"unlockEligibilityStatus": "R",
+"unlockCode": "O",
+"fnCustomerType": "O",
+"subscribeNumber": "O",
+"deviceType": "R"
+}
+ ]
+} 
